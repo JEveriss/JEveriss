@@ -3,8 +3,8 @@
 
 ### My name is Jacques Everiss (he/him) and I am a web developer.
 
-Here is a link to my portfolio: **https://www.Jacques-Everiss.com/**  
-and a link to the GitHub repo for my portfolio: **https://github.com/JEveriss/NextJS-Portfolio**  
+Here is a link to my portfolio: **Jacques-Everiss.com**  
+and a link to the GitHub repo for my portfolio: **github.com/JEveriss/NextJS-Portfolio**  
 
 #### I mostly use the following:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" align="left" height="42px"></a>
@@ -25,9 +25,7 @@ and a link to the GitHub repo for my portfolio: **https://github.com/JEveriss/Ne
 
 <br/>  
 <br/>  
-<br/> 
 
-I am currently enrolled in the [CoGrammar Web Development Bootcamp](https://skills.cogrammar.com/), where I am learning how to get a job in the industry.  
 <br/>
 The job market has been somewhat ***<sup>```u```</sup> <sub>```n```</sub> <sup>```s```</sup> <sub>```t```</sub> <sup>```a```</sup> <sub>```b```</sub> <sup>```l```</sup> <sub>```e```</sub>*** these past few years, but I am still pushing on, determined to regain emplyment in the field I am so passionate about.  
 
