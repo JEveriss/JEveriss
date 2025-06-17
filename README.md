@@ -3,8 +3,8 @@
 
 ### My name is Jacques Everiss (he/him) and I am a web developer.
 
-Here is a link to my portfolio: **Jacques-Everiss.com**  
-and a link to the GitHub repo for my portfolio: **github.com/JEveriss/NextJS-Portfolio**  
+Here is a link to my portfolio: **[Jacques-Everiss.com](https://www.Jacques-Everiss.com/)**  
+and a link to the GitHub repo for my portfolio: **[github.com/JEveriss/NextJS-Portfolio](https://www.github.com/JEveriss/NextJS-Portfolio/)**  
 
 #### I mostly use the following:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" align="left" height="42px"></a>
