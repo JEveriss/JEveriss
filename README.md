@@ -27,7 +27,7 @@ and a link to the GitHub repo for my portfolio: **github.com/JEveriss/NextJS-Por
 <br/>  
 
 <br/>
-The job market has been somewhat ***<sup>```u```</sup> <sub>```n```</sub> <sup>```s```</sup> <sub>```t```</sub> <sup>```a```</sup> <sub>```b```</sub> <sup>```l```</sup> <sub>```e```</sub>*** these past few years, but I am still pushing on, determined to regain emplyment in the field I am so passionate about.  
+The job market has been somewhat ***<sup>u</sup> <sub>n</sub> <sup>s</sup> <sub>t</sub> <sup>a</sup> <sub>b</sub> <sup>l</sup> <sub>e</sub>*** these past few years, but I am still pushing on, determined to regain emplyment in the field I am so passionate about.  
 
 
 Before I was working in the tech industry I was:
