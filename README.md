@@ -1,7 +1,7 @@
 # Hello there :)  
 <picture><img alt="A photo of Jacques Everiss" align="right" height="200px" src="https://www.jacques-everiss.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar.87f8b7b2.png&w=640&q=75" > </picture>
 
-### My name is Jacques Everiss (he/him) and I am a web developer.
+### My name is Jacques Everiss (he⚡him) and I am a web developer.
 
 Here is a link to my portfolio: **[Jacques-Everiss.com](https://www.Jacques-Everiss.com/)**  
 and a link to the GitHub repo for my portfolio: **[github.com/JEveriss/NextJS-Portfolio](https://www.github.com/JEveriss/NextJS-Portfolio/)**  
@@ -41,19 +41,4 @@ Before I was working in the tech industry I was:
 
 I am a strong believer in community and helping each other to create a environment where we can all learn and work together
 
-Feel free to getin contact if you have any questions, comments, grievances, suggestions :upside_down_face:	
-
-<!--
-**JEveriss/JEveriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to get in contact if you have any questions, comments, grievances, suggestions :upside_down_face:	
